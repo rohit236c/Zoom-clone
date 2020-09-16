@@ -49,4 +49,3 @@ const addVideoStream = (video, stream) => {
 
 let msg = $('input');
 console.log(msg);
-//2:31:26
