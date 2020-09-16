@@ -1,4 +1,4 @@
-#Zoom Clone
+# Zoom Clone
 
 This is a zoom clone made using **Node.js**. It uses **socket.io and Peer.js** for connecting various users. It has all the functionality of zoom application. For the frontend **ejs** is used.
 
@@ -6,7 +6,7 @@ To use this repo:
 
 **git clone** https://github.com/rohit236c/Zoom-clone.git
 
-#####Install all modules using following command
+##### Install all modules using following command
 `$ npm install `
 
 Some screenshot of the application :-
